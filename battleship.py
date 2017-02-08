@@ -142,12 +142,7 @@ grid = read_field("field.txt")
 # print(has_ship(grid,("I",7)))
 # print(has_ship(grid,("I",8)))
 
-
-def is_valid(grid):
-    """
-    (data) -> (bool)
-    """
-
+ 
 
 
 def field_to_str(grid):
